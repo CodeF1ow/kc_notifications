@@ -1,0 +1,47 @@
+.noty_theme__forasteros.noty_bar {
+  margin: 4px 0;
+  overflow: hidden;
+  border-radius: 10px;
+  position: relative; 
+}
+.noty_theme__forasteros.noty_bar .noty_body {
+    padding: 10px;
+    font-size: 16px; 
+    text-shadow: 1px 1px 0 #000
+}
+.noty_theme__forasteros.noty_bar .noty_buttons {
+    padding: 10px; 
+}
+.blue {color: #86e3ff;}
+.red {color: #ff2b2b;}
+.green {color: #82fd93;}
+.yellow {color: #fffb00;} 
+.purple {color: #e19fff;}
+.grey {color: #cfcfcf;}
+.darkgrey {color: #8d8d8d;}
+.black {color: #000000;}
+.gold {color: #e0d100;}
+
+.noty_theme__forasteros.noty_type__alert, .noty_theme__forasteros.noty_type__notification {  background-color: rgba(78, 78, 78, 0.445);  border-bottom: 1px solid #D1D1D1;  color: #fff; }
+.noty_theme__forasteros.noty_type__warning {  background-color: rgba(133, 88, 30, 0.473);  border-bottom: 1px solid #E89F3C;  color: #fff; }
+.noty_theme__forasteros.noty_type__error {  background-color: rgba(187, 34, 49, 0.288);  border-bottom: 1px solid #CA5A65;  color: #fff; }
+.noty_theme__forasteros.noty_type__info,.noty_theme__forasteros.noty_type__information {  background-color: rgba(16, 16, 88, 0.404);  border-bottom: 1px solid #7473E8;  color: #fff; }
+.noty_theme__forasteros.noty_type__success {  background-color: rgba(70, 94, 0, 0.5);  border-bottom: 1px solid #A0B55C;  color: #fff; }
+
+.noty_theme__forasteros.noty_type__police_alert, .noty_theme__forasteros.noty_type__police_notification {  background-color: rgb(136, 183, 255);  border-bottom: 1px solid #D1D1D1;  color: #fff; }
+.noty_theme__forasteros.noty_type__police_warning {  background-color: rgba(136, 183, 255);   border-bottom: 1px solid #E89F3C;  color: #fff; }
+.noty_theme__forasteros.noty_type__police_error {  background-color: rgba(136, 183, 255);  border-bottom: 1px solid #CA5A65;  color: #fff; }
+.noty_theme__forasteros.noty_type__police_info,.noty_theme__forasteros.noty_type__police_information {  background-color: rgba(136, 183, 255);  border-bottom: 1px solid #7473E8;  color: #fff; }
+.noty_theme__forasteros.noty_type__police_success {  background-color: rgba(136, 183, 255);  border-bottom: 1px solid #A0B55C;  color: #fff; }
+
+.noty_theme__forasteros.noty_type__police_alert .blue, 
+.noty_theme__forasteros.noty_type__police_notification .blue,
+.noty_theme__forasteros.noty_type__police_warning .blue,
+.noty_theme__forasteros.noty_type__police_error .blue,
+.noty_theme__forasteros.noty_type__police_info .blue,
+.noty_theme__forasteros.noty_type__police_information .blue,
+.noty_theme__forasteros.noty_type__police_success .blue
+{
+  color: #002e91;
+}
+
