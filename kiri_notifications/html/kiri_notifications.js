@@ -41,19 +41,3 @@ $(function(){
 
     });
 });
-/*
-$(document).ready(function(){
-  new Noty({
-    text: '¡Bienvenido a Forasteros RP!',
-    layout: 'bottomCenter',
-    type: 'success',
-    theme: 'forasteros',
-    progressBar: true,
-    timeout: 5000,
-    animation: {
-        open: 'animated bounceInRight', // Animate.css class names
-        close: 'animated bounceOutRight' // Animate.css class names
-    }
-  }).show();
-});
-*/
