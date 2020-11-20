@@ -1,6 +1,6 @@
 Notifications System, alternative to pNotify.
 
-Author: KiritoDev
+Author: ElKiri86
 
 ## Requirements
  - ESX Framework
